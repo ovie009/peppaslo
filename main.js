@@ -6,3 +6,11 @@ const video = document.getElementById('video');
 setTimeout(function() {
   video.play();
 }, 500);
+
+// check if video is playing every 2 seconds
+// if its not play video
+setInterval(() => {
+    if (video.paused) {
+        video.play();
+    }
+}, 3000);

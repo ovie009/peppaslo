@@ -220,15 +220,16 @@ video {
 }
 
 .hero_paragraph {
-    color: black;
+    color: white;
+    font-size: 1.2em;
     font-weight: 700;
     text-align: center;
     /* font-size: 20px; */
     /* add a stroke of 3px to the text */
-    /* text-shadow: -1px -1px 0 #9015fe, 
+    text-shadow: -1px -1px 0 #9015fe, 
     1px -1px 0 #9015fe, 
     -1px 1px 0 #9015fe, 
-    1px 1px 0 #9035fe; */
+    1px 1px 0 #9035fe;
 }
 
 .icon_button_group {

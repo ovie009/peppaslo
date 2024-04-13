@@ -134,7 +134,7 @@ video {
     /* bottom: 0; */
     top: -150px;
     z-index: 5;
-    left: -20px;
+    left: -40px;
     align-self: center;
     animation: rotateAnimation 5s infinite;
 }
@@ -145,7 +145,7 @@ video {
     top: -150px;
     /* bottom: 0; */
     z-index: 5;
-    right: -20px;
+    right: -40px;
     animation: rotateAnimationFlip 5s infinite;
 }
 
@@ -211,7 +211,7 @@ video {
 .heading_paragraph {
     font-family: 'Protest Guerrilla', sans-serif;
     color: white;
-    font-size: 25px;
+    /* font-size: 25px; */
     /* add a stroke of 3px to the text */
     text-shadow: -1px -1px 0 #9015fe, 
     1px -1px 0 #9015fe, 

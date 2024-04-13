@@ -211,7 +211,7 @@ video {
 .heading_paragraph {
     font-family: 'Protest Guerrilla', sans-serif;
     color: white;
-    /* font-size: 25px; */
+    font-size: 20px;
     /* add a stroke of 3px to the text */
     text-shadow: -1px -1px 0 #9015fe, 
     1px -1px 0 #9015fe, 
